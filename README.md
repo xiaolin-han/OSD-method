@@ -1,14 +1,14 @@
 # OSD-method
 
-
-This is the Matlab program of our paper 
-"Spectral Anomaly Detection Based on Dictionary Learning for Sea Surfaces" 
+This is the Matlab program of our paper "Spectral Anomaly Detection Based on Dictionary Learning for Sea Surfaces" 
 to be appeared in IEEE Geoscience and Remote Sensing Letters (GRSL), vol. 19, pp. 1-5, 2022.
+
 ----------------------------------------------------------------------------------------------------
 Copyright 2022
 Xiaolin Han, Tsinghua University, Dept.of Electronic Engineering;
 Huan Zhang, Tsinghua University, Dept.of Electronic Engineering;
 Weidong Sun, Tsinghua University, Dept.of Electronic Engineering.
+
 ----------------------------------------------------------------------------------------------------
 Use:
 You can run the program "main_OSD.m".
