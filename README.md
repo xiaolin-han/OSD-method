@@ -19,8 +19,8 @@ X. Han, H. Zhang and W. Sun, "Spectral Anomaly Detection Based on Dictionary Lea
 
 Disclaimer:
 Any unauthorized use of these routines for industrial or profit-oriented activities is expressively prohibited.
-Questions/feedback:
 
+Questions/feedback:
 If you have any comment, suggestion, or question, please do 
 contact Xiaolin Han: hxl15@tsinghua.org.cn
 or Weidong Sun: wdsun@tsinghua.edu.cn 
