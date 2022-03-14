@@ -4,17 +4,15 @@ clear all;
 warning off;
 addpath(genpath(pwd));
 
-load D_initial
-load image_whole
-
 % normal scene definded
-X_g = image_whole(:,3364:end,:);
+load D_initial
+load X_g
 X_g_2d = reshape(X_g./max(X_g(:)).*255,[],size(X_g,3));
 % Spectral dictionary and Sparse Coefficient Optimization
 [D_0] = Optimization_OSD(X_g_2d',D_initial);
 
 % given image to be detected
-X = image_whole(357:end,1045:3364,:);
+load X
 X = X./max(X(:)).*255;
 X_2d = reshape(X,[],size(X_g,3));
 % Sparse Coefficient Optimization
